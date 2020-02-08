@@ -1,2 +1,0 @@
-# webdesignscrub
-My practice website
